@@ -1,5 +1,3 @@
-<details>
-
 # Recruitment Player Tool :soccer:
 
 
@@ -22,6 +20,3 @@ Si e' optato inoltre per il non utilizzo dei portieri ( In ottica similarita' po
 :snake: E' stata infatti condotta in primis un'analisi delle componenti principali (PCA) in modo da andare a ridurre la dimensionalità del campione. Successivamente il sistema di raccomandazione e' stato creato mediante una cluster analysis condotta tramite l'utilizzo di K-Means e della cosine similarity.
 
 Per ulteriori informazioni :email: ecca13@hotmail.it
-
-
-</details>
