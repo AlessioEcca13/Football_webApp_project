@@ -15,8 +15,8 @@ In aggiunta a questi e' stato eseguito inoltre dello scraping su:
 - Transfermarket (per recuperare info della bio e le immagini )
 - Capology (stipendio annuale + info) :bar_chart:
 
- Per le analisi sono stati utilizzate tutte le metriche scalate e normalizzate su 90 minuti.he per ogni giocatore: **300 ~**. Minimo anni '90 giocati: **3**.
-Si e' optato inoltre per la rimozione dei portieri( In ottica similarita' posseggono caratteristiche troppo differenti dai giocatori di movimento  ) 
+Per l' analisi sono state utilizzate tutte le metriche scalate e normalizzate su 90 minuti.
+Si e' optato inoltre per il non utilizzo dei portieri ( In ottica similarita' posseggono caratteristiche troppo differenti dai giocatori di movimento  ) 
 
 :heavy_exclamation_mark: :bulb: **Nota:** I valori di similarità tra i giocatori sono stati calcolati basandosi strettamente su un '**output di tipo statistico sulle circa 300 features a disposizione per i giocatori** 
 
