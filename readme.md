@@ -1,5 +1,4 @@
 <details>
-<summary>📌 Tap for app info</summary>
 
 # Recruitment Player Tool :soccer:
 
