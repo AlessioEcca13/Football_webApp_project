@@ -19,4 +19,6 @@ Si e' optato inoltre per il non utilizzo dei portieri ( In ottica similarita' po
 
 :snake: E' stata infatti condotta in primis un'analisi delle componenti principali (PCA) in modo da andare a ridurre la dimensionalità del campione. Successivamente il sistema di raccomandazione e' stato creato mediante una cluster analysis condotta tramite l'utilizzo di K-Means e della cosine similarity.
 
+Click to view:  https://share.streamlit.io/alessioecca13/football_webapp_project/main/web_app.py
+
 Per ulteriori informazioni :email: ecca13@hotmail.it
